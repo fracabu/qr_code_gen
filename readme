@@ -1,0 +1,14 @@
+# Generatore di QR Code
+
+Un semplice programma per generare codici QR con un'interfaccia grafica.
+
+## Requisiti
+
+- Python 3.x
+- Librerie: `qrcode`, `Pillow`
+
+## Installazione
+
+1. Clona il repository:
+   ```bash
+   git clone https://github.com/tuo-repo/qr-code-gen.git

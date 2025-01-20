@@ -1,0 +1,42 @@
+# Ignora i file di ambiente virtuale
+venv/
+.env/
+
+# Ignora i file generati da Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Ignora i file di configurazione locale
+*.local
+*.env
+
+# Ignora i file di IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignora i file di log e database
+*.log
+*.sqlite3
+
+# Ignora i file di output generati dall'utente
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# Ignora i file di distribuzione e pacchetti
+dist/
+build/
+*.egg-info/
+*.egg
+*.whl
+
+# Ignora i file di sistema
+.DS_Store
+Thumbs.db
